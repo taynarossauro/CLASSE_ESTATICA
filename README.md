@@ -1,5 +1,5 @@
 # Diagrama
-![Diagrama](https://github.com/taynarossauro/CLASSE_ESTATICA/blob/main/Diagrama%20sem%20nome.drawio.png)
+![Diagrama](https://github.com/taynarossauro/CLASSE_ESTATICA/blob/main/Diagrama_Classe_Estatica.png)
 
 
 # Biblioteca_de_Conversões
