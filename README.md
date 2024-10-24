@@ -1,3 +1,8 @@
+# Diagrama
+![Diagrama](https://github.com/taynarossauro/CLASSE_ESTATICA/blob/main/Diagrama%20sem%20nome.drawio.png)
+
+https://github.com/taynarossauro/CLASSE_ESTATICA/blob/main/Diagrama%20sem%20nome.drawio.png
+
 # Biblioteca_de_Conversões
 
 Este projeto implementa uma biblioteca de conversões de unidades, permitindo a conversão entre diferentes sistemas de medida, como temperatura, comprimento e massa. A classe estática `ConversorUnidades` contém métodos que realizam essas conversões, e uma classe principal (`Main`) exibe os resultados no console.
