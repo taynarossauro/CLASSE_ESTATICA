@@ -1,7 +1,6 @@
 # Diagrama
 ![Diagrama](https://github.com/taynarossauro/CLASSE_ESTATICA/blob/main/Diagrama%20sem%20nome.drawio.png)
 
-https://github.com/taynarossauro/CLASSE_ESTATICA/blob/main/Diagrama%20sem%20nome.drawio.png
 
 # Biblioteca_de_Conversões
 
